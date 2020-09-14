@@ -23,7 +23,7 @@ We propose you to fake an API with JSON data representation using [jsonbox.io](h
 
 ### Initialization
 
-In a terminal, simply run:
+Clone this repository, and in a terminal, simply run:
 ```sh
 sh init-box.sh <box_id>
 ```
