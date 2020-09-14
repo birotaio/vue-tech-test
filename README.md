@@ -15,6 +15,7 @@ You will develop a minimalistic static Vue app with little requirements. Its goa
 - Choose any map provider you are familiar with.
 - Display markers on map to represent bikes in their different states.
 - These markers can be clicked to open more information on the bike and optionnaly change its state (see [Optional, a step further](#optional-a-step-further) section).
+- Responsivity would be appreciated.
 
 ## API
 
