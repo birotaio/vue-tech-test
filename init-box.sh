@@ -1,5 +1,3 @@
-
-
 if [ "$#" -lt 1 ]
 then
   echo "Usage: sh ./init-box.sh <box_id>"
